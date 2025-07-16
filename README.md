@@ -41,7 +41,7 @@ I recommend [Tampermonkey](https://www.tampermonkey.net/) (it's free)
 **Step 5:** Tampermonkey will open a new tab — click Install\
 ![](https://raw.githubusercontent.com/404fragger/BattleMod/refs/heads/main/img/download_script_tampermonkey.png)
 
-**Step 6:** Setup Complete! Now just go to https://battledudes.io\
+**Step 6:** Setup Complete! Now just go to https://battledudes.io
 
 ## How to Use Multibox
 ### Account Menu Setup
@@ -66,11 +66,11 @@ I recommend [Tampermonkey](https://www.tampermonkey.net/) (it's free)
 **Step 4** After creating, you should be able to see the window ID of the bot\
 ![](https://raw.githubusercontent.com/404fragger/BattleMod/refs/heads/main/img/bot_menu_withbot.png)\
 **Note:** Text color indicates the state of the bot\
-(White = haven't join; Green = Same team, Red = Different team)\
+(White = haven't join; Green = Same team, Red = Different team)
 
 ## Disclaimer
 Using aimbot may result in an **account ban** or **IP ban**\
-**Use at your own risk**.\
+**Use at your own risk**.
 
 ## Shortcut Keys
 **O** — Toggle entire hack on/off\
